@@ -1,0 +1,20 @@
+.segment {
+    clip-path: polygon(45% 100%, 1% 0, 70% 0);
+    transform: translateX(-50%);
+    transform-origin: bottom;
+}
+
+.arrows {
+  
+    transform: translateX(-50%);
+}
+
+
+
+#spin {
+    transform: translate(-50%, -50%);
+}
+
+
+
+
